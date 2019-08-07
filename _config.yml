@@ -1,3 +1,15 @@
+title: RADIO 350CAN
+author: taiga
+description: それでも地球は回ってる。
+description_long: どうしようもないふたりがどうしようもない話をする、先に誤っておくごめん。
+hashtag: 350can
+keywords: game,entertainment,local,news,market,art,anime
+language: ja
+markdown: kramdown
+permalink: /episode/:title
+timezone: Asia/Tokyo
+url: https://350can.github.io
+email: test@gmail.com
 actors:
   taiga:
     image_url: /images/actors/taiga.jpg
@@ -7,10 +19,6 @@ actors:
     image_url: /images/actors/hase.jpg
     name: hase
     url: https://twitter.com/hase_mp4
-author: taiga
-description: それでも地球は回ってる。
-description_long: どうしようもないふたりがどうしようもない話をする、先に誤っておくごめん。
-email: test@gmail.com
 exclude:
   - docker
   - docker-compose.yml
@@ -20,14 +28,6 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: fm350
 itunes_podcast_url:
-keywords: game,entertainment,local,news
-language: ja
-markdown: kramdown
-permalink: /episode/:title
 sass:
   sass_dir: css
-timezone: Asia/Tokyo
-title: ラジオ350
-url: http://example.com
