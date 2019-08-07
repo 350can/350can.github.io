@@ -1,16 +1,16 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+  taiga:
+    image_url: /images/actors/ogrew.png
+    name: taiga
+    url: https://twitter.com/dot_not_
+  hase:
+    image_url: /images/actors/hase.png
+    name: hase
+    url: https://twitter.com/hase_mp4
+author: taiga
+description: それでも地球は回ってる。
+description_long: どうしようもないふたりがどうしようもない話をする、先に誤っておくごめん。
+email: test@gmail.com
 exclude:
   - docker
   - docker-compose.yml
@@ -20,14 +20,14 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: fm350
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: game,entertainment,local,news
 language: ja
 markdown: kramdown
 permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
+title: ラジオ350
 url: http://example.com
