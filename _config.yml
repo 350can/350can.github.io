@@ -1,10 +1,10 @@
 actors:
   taiga:
-    image_url: /images/actors/ogrew.png
+    image_url: /images/actors/taiga.jpg
     name: taiga
     url: https://twitter.com/dot_not_
   hase:
-    image_url: /images/actors/hase.png
+    image_url: /images/actors/hase.jpg
     name: hase
     url: https://twitter.com/hase_mp4
 author: taiga
