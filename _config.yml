@@ -1,7 +1,7 @@
-title: RADIO 350CAN
+title: AM.SanGoCan
 author: taiga
-description: それでも地球は回ってる。
-description_long: どうしようもないふたりがどうしようもない話をする、先に誤っておくごめん。
+description: 缶ビールを片手に世間からはみ出てしまった二人がゆるゆるとトークします。
+description_long: ゲームエンジニアのtaigaとSNSマーケターのhaseがパーソナリティを務めるキラキラバイブス全開の極貧アル中インターネットラジオ番組
 hashtag: 350can
 keywords: game,entertainment,local,news,market,art,anime
 language: ja
@@ -9,7 +9,7 @@ markdown: kramdown
 permalink: /episode/:title
 timezone: Asia/Tokyo
 url: https://350can.github.io
-email: test@gmail.com
+email: 2044taiga@gmail.com
 actors:
   taiga:
     image_url: /images/actors/taiga.jpg
