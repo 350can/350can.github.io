@@ -3,22 +3,24 @@
   display: block;
   font-size: 0.9rem;
   line-height: 1.7;
-  padding-bottom: 16px;
-  padding-top: 16px;
+  padding-bottom: 6px;
+  padding-top: 6px;
   position: relative;
 
   &-heading {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
+    font-weight: 520;
   }
 
   &-images {
     margin-top: 8px;
+    text-align: right;
 
     &-element {
       border-radius: 50%;
 
       & + & {
-        margin-left: 4px;
+        margin-left: 6px;
       }
     }
   }
