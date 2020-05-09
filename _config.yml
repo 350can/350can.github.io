@@ -31,5 +31,3 @@ google_analytics:
 itunes_podcast_url:
 sass:
   sass_dir: css
-plugins:
-  - jekyll-seo-tag
