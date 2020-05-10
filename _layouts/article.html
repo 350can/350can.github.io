@@ -40,7 +40,9 @@
               {{ page.description }}
             </p>
             <center>
-            <a href="https://twitter.com/intent/tweet?button_hashtag=350can&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #350can</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+              <a class="twitter-share-button" data-size="large" href="https://twitter.com/intent/tweet?hashtags={{ site.hashtag }}&url={{ site.github.url }}{{ page.url }}&text={{ page.title }}">
+                Tweet
+              </a>
             </center>
             <h2>
               パーソナリティ
@@ -57,11 +59,6 @@
             </div>
             {{ content }}
           </section>
-          <footer class="article-footer">
-            <a class="twitter-share-button" href="https://twitter.com/intent/tweet?hashtags={{ site.hashtag }}&url={{ site.github.url }}{{ page.url }}&text={{ page.title }}">
-              Tweet
-            </a>
-          </footer>
         </article>
       </div>
     </main>
